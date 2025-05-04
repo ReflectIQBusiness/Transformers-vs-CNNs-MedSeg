@@ -51,3 +51,9 @@ The models are evaluated with the following:
 - **Recall**
 - **F1 Score**
 - **Computational Metrics**: GFLOPs, Model Parameters (MB), Training Time (s)
+
+
+Make sure MONAI and PyTorch are available:
+  pip install monai torch torchvision nibabel
+
+
